@@ -3,5 +3,6 @@
 using namespace std;
 int main() {
 	cout << "Hell Word" << endl;
+	cout << "Hell Word" << endl;
 	return 0;
 }
